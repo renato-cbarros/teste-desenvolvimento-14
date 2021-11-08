@@ -13,4 +13,4 @@ A partir da página de listagem de filmes desenvolvida, customize a interface ap
 
 # Resultado: 
 
-![Captura de tela 2021-11-05 183709](https://user-images.githubusercontent.com/42192877/140581615-19086a9b-b68d-4b4e-8b25-5e3b8fd48d2b.png)
+![Captura de tela 2021-11-08 035053](https://user-images.githubusercontent.com/42192877/140698412-dd4e811b-63f8-4078-87e1-96b07672d540.png)
